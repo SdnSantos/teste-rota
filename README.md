@@ -18,10 +18,10 @@ Você deve manipular as escolas do link abaixo:
 - https://api.myjson.com/bins/13db9w 
 
 ## Regras de negócio
-- Uma escola precisa de alunos, então precisamos que cada aluno contenha os campos Nome, CPF, data de nascimento, nome da mãe.
-- Queremos registrar o condutor contendo os campos Nome, CPF, Número da CNH, data de validade da CNH.
-- Queremos registrar o veículo e associar o mesmo ao condutor. O veículo deve conter placa, e capacidade máxima do veículo.
-- Devemos ter a entidade "Rota" para amarrar os alunos, escola, condutor, veículo e a rota.
+- Uma escola precisa de alunos, então precisamos que cada aluno contenha os campos Nome, CPF, data de nascimento e nome da mãe.
+- Queremos registrar o condutor contendo os campos Nome, CPF, Número da CNH e data de validade da CNH.
+- Queremos registrar o veículo e associar o mesmo ao condutor. O veículo deve conter placa e capacidade máxima do veículo.
+- Devemos ter a entidade "Rota" para amarrar os alunos, escola, condutor e veículo.
 
 ## Considerações
 - Lembre-se de não exceder a capacidade máxima do veículo
