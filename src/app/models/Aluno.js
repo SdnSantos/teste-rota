@@ -7,7 +7,7 @@ class Aluno extends Model {
         nome: Sequelize.STRING,
         cpf: Sequelize.STRING,
         nasc: Sequelize.DATE,
-        nomeMae: Sequelize.STRING,
+        nome_mae: Sequelize.STRING,
       },
       {
         sequelize,

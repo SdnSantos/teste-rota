@@ -19,7 +19,7 @@ module.exports = {
         type: Sequelize.DATE,
         allowNull: false,
       },
-      nomeMae: {
+      nome_mae: {
         type: Sequelize.STRING,
         allowNull: false,
       },

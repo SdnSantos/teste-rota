@@ -7,25 +7,25 @@ module.exports = {
         autoIncrement: true,
         primaryKey: true,
       },
-      idAluno: {
+      id_aluno: {
         type: Sequelize.INTEGER,
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
       },
-      idEscola: {
+      id_escola: {
         type: Sequelize.INTEGER,
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
       },
-      idCondutor: {
+      id_condutor: {
         type: Sequelize.INTEGER,
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
       },
-      idVeiculo: {
+      id_veiculo: {
         type: Sequelize.INTEGER,
         allowNull: false,
         autoIncrement: true,
